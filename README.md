@@ -1,2 +1,2 @@
 # YouTubeClone
-<h2>Youube CLone</h2>
+<h2>Youtube CLone</h2>
